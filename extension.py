@@ -6,7 +6,7 @@ import scipy
 import matplotlib.pyplot as pyplot
 from scipy import integrate
 
-USER = 'Elliot Sims'
+USER = 'Elliot Byrne'
 USER_ID = 'jtdl85'
 
 def data_from_file(filename):
